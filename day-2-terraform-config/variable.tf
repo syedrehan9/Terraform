@@ -1,5 +1,5 @@
 variable "ami_id" {
-    description = "Passing AMI valuessssss"
+    description = "Passing AMI values"
   default = "ami-07860a2d7eb515d9a"
   type = string
 }
